@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(44, 47, 47);
+}
+
+
+.div-coin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-coins {
+    width:  400px;
+    height: 400px;
+}
+
+.input-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-coin h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.box-coin p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
